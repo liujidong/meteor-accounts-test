@@ -4,4 +4,11 @@ meteor add accounts-password
 meteor add accounts-ui
 修改client/main.html
 二，在独立页面注册登陆
-
+/：首页
+/login:登录页
+安装命令：
+meteor add useraccounts:bootstrap
+meteor add twbs:bootstrap
+路由
+meteor add iron:router
+meteor add useraccounts:iron-routing
