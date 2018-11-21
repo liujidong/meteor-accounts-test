@@ -12,3 +12,5 @@ meteor add twbs:bootstrap
 路由
 meteor add iron:router
 meteor add useraccounts:iron-routing
+三，文字国际化
+https://atmospherejs.com

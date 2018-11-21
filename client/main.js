@@ -6,6 +6,7 @@ import '../lib/router.js';
 import './index.html';
 import './index.js';
 import './login.html';
+import '../lib/config.js';
 
 Template.hello.onCreated(function helloOnCreated() {
   // counter starts at 0
