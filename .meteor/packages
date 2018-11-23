@@ -27,3 +27,4 @@ iron:router
 useraccounts:iron-routing
 leonzhang1109:accounts-qq
 service-configuration
+accounts-weibo

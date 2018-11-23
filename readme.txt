@@ -16,3 +16,11 @@ meteor add useraccounts:iron-routing
 https://atmospherejs.com
 四，配置注册信息项
 https://github.com/meteor-useraccounts/core/blob/master/Guide.md
+五，第三方登陆集成
+	QQ登陆
+	meteor add leonzhang1109:accounts-qq
+	meteor add service-configuration
+	微博登陆
+	meteor add accounts-weibo
+	meteor add service-configuration
+
