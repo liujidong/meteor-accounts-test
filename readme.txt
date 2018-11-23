@@ -14,3 +14,5 @@ meteor add iron:router
 meteor add useraccounts:iron-routing
 三，文字国际化
 https://atmospherejs.com
+四，配置注册信息项
+https://github.com/meteor-useraccounts/core/blob/master/Guide.md
